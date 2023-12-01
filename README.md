@@ -1,4 +1,3 @@
-Claro, vou fornecer um exemplo básico de documentação para o seu sistema. Certifique-se de personalizar de acordo com as necessidades específicas do seu projeto.
 
 ---
 
